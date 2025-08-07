@@ -1,1 +1,1 @@
-https://support.microsoft.com/en-us/topic/supported-regions-and-languages-in-microsoft-copilot-26de43a1-c176-4908-bef7-29c8c37ac7ce
+PIL.Image
